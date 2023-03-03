@@ -1,0 +1,71 @@
+.btn {
+  width: 16px;
+  height: 16px;
+  padding: 0;
+  margin: 0;
+  border: none;
+  background-color: transparent;
+}
+
+.mine {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url("../../../img/btn.png");
+}
+
+.zero {
+  background-image: url("../../../img/btnClicked.png");
+}
+
+.one {
+  background-image: url("../../../img/oneBomb.png");
+}
+
+.two {
+  background-image: url("../../../img/twoBomb.png");
+}
+
+.three {
+  background-image: url("../../../img/threeBomb.png");
+}
+
+.four {
+  background-image: url("../../../img/fourBomb.png");
+}
+
+.five {
+  background-image: url("../../../img/fiveBomb.png");
+}
+
+.six {
+  background-image: url("../../../img/sixBomb.png");
+}
+
+.seven {
+  background-image: url("../../../img/sevenBomb.png");
+}
+
+.eight {
+  background-image: url("../../../img/eightBomb.png");
+}
+
+.clickedBomb {
+  background-image: url("../../../img/bombClicked.png");
+}
+
+.questionMark {
+  background-image: url("../../../img/questionMark.png");
+}
+
+.bomb {
+  background-image: url("../../../img/bomb.png");
+}
+
+.flag {
+  background-image: url("../../../img/flag.png");
+}
+
+.missFlag {
+  background-image: url("../../../img/bombMiss.png");
+}

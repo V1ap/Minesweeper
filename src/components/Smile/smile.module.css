@@ -1,0 +1,23 @@
+.smile {
+  width: 26px;
+  height: 26px;
+  border: none;
+  background-color: transparent;
+  background-image: url("../../img/restart.png");
+}
+
+.smileMouseDown {
+  background-image: url("../../img/restartClicke.png");
+}
+
+.scared {
+  background-image: url("../../img/scared.png");
+}
+
+.lose {
+  background-image: url("../../img/lose.png");
+}
+
+.win {
+  background-image: url("../../img/win.png");
+}

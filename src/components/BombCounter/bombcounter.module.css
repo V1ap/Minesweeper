@@ -1,0 +1,51 @@
+.bombCounter {
+  display: flex;
+  width: 39px;
+  height: 100px;
+}
+
+.number {
+  display: inline-block;
+  width: 13px;
+  height: 23px;
+}
+
+.zero {
+  background-image: url("/src/img/0.png");
+}
+
+.one {
+  background-image: url("/src/img/1.png");
+}
+
+.two {
+  background-image: url("/src/img/2.png");
+}
+
+.three {
+  background-image: url("/src/img/3.png");
+}
+
+.four {
+  background-image: url("/src/img/4.png");
+}
+
+.five {
+  background-image: url("/src/img/5.png");
+}
+
+.six {
+  background-image: url("/src/img/6.png");
+}
+
+.seven {
+  background-image: url("/src/img/7.png");
+}
+
+.eight {
+  background-image: url("/src/img/8.png");
+}
+
+.nine {
+  background-image: url("/src/img/9.png");
+}

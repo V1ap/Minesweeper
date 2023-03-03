@@ -1,0 +1,6 @@
+.mineField {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 256px;
+  margin: 0 auto;
+}
